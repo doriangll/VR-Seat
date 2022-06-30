@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/IMG.meta
+    - Assets/IMG/3147_R0lVIE5JQyA3NDYtMTc.jpg
+    - Assets/IMG/3147_R0lVIE5JQyA3NDYtMTc.jpg.meta
+    - Assets/IMG/Materials.meta
+    - Assets/IMG/Materials/3147_R0lVIE5JQyA3NDYtMTc.mat
+    - Assets/IMG/Materials/3147_R0lVIE5JQyA3NDYtMTc.mat.meta
+    - Assets/IMG/Materials/illust57-4796.mat
+    - Assets/IMG/Materials/illust57-4796.mat.meta
+    - Assets/IMG/illust57-4796.jpg
+    - Assets/IMG/illust57-4796.jpg.meta
+    - Assets/Materials.meta
+    - Assets/Materials/test 1.mat
+    - Assets/Materials/test 1.mat.meta
+    - Assets/Materials/test.mat
+    - Assets/Materials/test.mat.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/CamMove.cs
+    - Assets/Scripts/CamMove.cs.meta
+    - Assets/Scripts/GyroControl.cs
+    - Assets/Scripts/GyroControl.cs.meta
+    - Assets/Scripts/NewBehaviourScript.cs
+    - Assets/Scripts/NewBehaviourScript.cs.meta
+    - Assets/Scripts/Test.cs
+    - Assets/Scripts/Test.cs.meta
+    - Assets/Scripts/Ticket.cs
+    - Assets/Scripts/Ticket.cs.meta
+    - Assets/StreamingAssets.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/MemorySettings.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
